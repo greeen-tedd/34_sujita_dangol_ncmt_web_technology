@@ -41,7 +41,7 @@ Backend
 7. Timeline & Milestones
 -Deadlines for each stage.
 
-6.Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
+6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
 Maintenance is an iterative phase since, without it, a website would be a source of security risk issues, in addition to dropping search 
 engine rankings.Maintenance is ongoing from the time a site goes live. An online business requires continuous updating, monitoring, or improvements, 
 rather than being a finished task.
@@ -82,7 +82,7 @@ Information Gathering is the first and most crucial step.It determines the purpo
 that in the absence of the target audience or group, the website can end up irrelevant or ineffective in the desired field or area
 
 Group C: Scenario Based Questions (5 Marks)
-8.  You are the project manager for a new e-commerce site. The client wants to skip the”Testing” phase to save money and launch early. Write a persuasive argument explaining.
+8. You are the project manager for a new e-commerce site. The client wants to skip the”Testing” phase to save money and launch early. Write a persuasive argument explaining.
 the potential risks (security, functionality, compatibility) of skipping this phase.
 The decision to skip the testing stage is risky and might turn out to be more costly in the future. Key Risks:
 1. Security Unpatched vulnerabilities could put sensitive information such as payment information at risk of hacker attacks, leading to security 
@@ -92,7 +92,7 @@ breaches, legal penalties, fines
 established that post-launch resolutions are 4.5 times more expensive than early discoveries potentially delaying the launch anyway because of emergencies, reputation
 issues and revenue generation.Wider testing allows for an assured and secured launch at which money is saved in the long run.
 
-9.  A developer begins coding a website immediately after meeting the client, without creatinga design prototype or sitemap. Midway through, the client rejects the layout. Analyze
+9. A developer begins coding a website immediately after meeting the client, without creatinga design prototype or sitemap. Midway through, the client rejects the layout. Analyze
 what went wrong in the process and how it should have been handled.
 While analyzing, “What went wrong” includes the following for the developer: the developer did not account for important stages like planning or designing 
 (sitemap and prototypes) but opted to code directly. This resulted in a lack of understanding, time wastage in development, and a lot of costs involved when 
@@ -100,13 +100,13 @@ the client rejected the design. Poor communication is also involved. “How it c
 information gathering. Then it could have included the creation of a sitemap for structuring. After that, it would have considered the development of prototypes for 
 approval. It could have obtained approval from the client on the prototypes prior to beginning coding.” 
 
-10. . A university website was launched successfully, but after six months, students stoppedvisiting it because the exam schedules were outdated. Which phase of the development
+10. A university website was launched successfully, but after six months, students stoppedvisiting it because the exam schedules were outdated. Which phase of the development
 lifecycle was neglected? Explain the activities involved in this phase.
 The maintenance stage was overlooked. This phase presents the following activities: 
 1. Content Updates:New blog post additions, updating prices of products, or updatingcontact information.
-2. Security Patches: Upgrading CMS software (e.g.,WordPress) to protect against hacking.
+2. Security Patches: Upgrading CMS software (for eg: WordPress) to protect against hacking.
 3. Backups: Automatic database and files backups if there isserver failure.
 4. Link Fixing: Scanning for faulty links on a constant basis. 
-5. Performance Optimization: Speed and Compatibility. 
-6. Feature enhancements:Adding improvements based on feedback. It helps to keep the site up to date, accurate, and entertaining. It also prevents 
+5. Performance Optimization: Speed and compatibility. 
+6. Feature enhancements: Adding improvements based on feedback. It helps to keep the site up to date, accurate, and entertaining. It also prevents 
 problems such as outdated information repelling users.
