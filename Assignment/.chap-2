@@ -1,27 +1,26 @@
 Group A: Short Questions (2 Marks)
 1. Define the term ”Sitemap” in the planning phase.
-A sitemap acts as an outline that indicates the structure of the website, with all the sub-pages, main pages, and their connections. This allows the creation 
+*A sitemap acts as an outline that indicates the structure of the website, with all the sub-pages, main pages, and their connections. This allows the creation 
 of a blueprint during the conceptual stage of making sure that the structure of the website follows logic.
 
 2. What is the purpose of the ”Launch” phase in web development?
-Launch Phase – This is the step whereby the website will be migrated from the local/staging environment to the production environment. This will involve
+*Launch Phase is the step whereby the website will be migrated from the local/staging environment to the production environment. This will involve
 deploying the completely verified website copy on the production server to make it accessible by everyone. This will be done by checking the website in terms
 of functionality, speed, and compatibility, after which the files will be migrated.
 
 3. Why is ”Documentation” important in the development lifecycle?
-Documentation is important, as it helps provide clarity in communications among developers, stakeholders, and developers in the future, in addition to
+*Documentation is important, as it helps provide clarity in communications among developers, stakeholders, and developers in the future, in addition to
 aiding in program debugging and making fewer bug errors.
 
 4. Differentiate between Front-end and Back-end Development.
-While front end development involves working on the user-facing components of an app or software program with technology such as HTML, CSS, or JavaScript.
+*While front end development involves working on the user-facing components of an app or software program with technology such as HTML, CSS, or JavaScript.
 Back-end development involves the server side logic, databases, and functionality. This is done through the use of languages such as PHP, Python, and Node.js.
 
 Group B: Long Questions (4 Marks)
 5. “Planning is the most critical phase of web development.”  Discuss this statement by listingthe key activities performed during the planning phase.
-Planning is the most critical phase because it lays the foundation for the entire project, preventing costly changes later by aligning the website with 
+*Planning is the most critical phase because it lays the foundation for the entire project, preventing costly changes later by aligning the website with 
 business goals and user needs. It converts collected information into a structured plan.It defines websites structure, technology, and timeline.
 Key activities in the planning phase are:
-
 1. Sitemap Creation
 -Sitemap: Pages - Home,
 -Visual display of website organization.
@@ -42,23 +41,20 @@ Backend
 -Deadlines for each stage.
 
 6. Explain the iterative nature of the Maintenance phase. Why is a website never truly ”finished”?
-Maintenance is an iterative phase since, without it, a website would be a source of security risk issues, in addition to dropping search 
-engine rankings.Maintenance is ongoing from the time a site goes live. An online business requires continuous updating, monitoring, or improvements, 
+*Maintenance is an iterative phase since, without it a website would be a source of security risk issues, in addition to dropping search 
+engine rankings. Maintenance is ongoing from the time a site goes live. An online business requires continuous updating, monitoring and improvements
 rather than being a finished task.
 Types of Maintenance
 1. Content Updates:Blogs, price changes, or updates in the contact details.
-
 2. Security Patches: Upgrading CMS software (such as WordPress) to avoid hacking attacks.
-
 3. Backups:Automated backups for the database and files in the event of server failure.
-
 4. Link Fixing:Scanning for problematic links to external pages.
 A website can never be said to be "completed" or "finished" as it is a living document. This is owing to several factors that keep changing
 with time such as new technology,browser updates,matters of security,new behaviors of users,business expansion,out-of-date information (such as outdated timetables 
 or product information),and changes in the SEO algorithms.
 
 7. Describe the process of ”Information Gathering.” Why is understanding the target audience crucial during this step?
-Information Gathering is the first and most crucial step.It determines the purpose,goals,audience,and required functionality.
+*Information Gathering is the first and most crucial step.It determines the purpose,goals,audience,and required functionality.
 1. Purpose
 -why the website is required
 -Business
@@ -84,17 +80,17 @@ that in the absence of the target audience or group, the website can end up irre
 Group C: Scenario Based Questions (5 Marks)
 8. You are the project manager for a new e-commerce site. The client wants to skip the”Testing” phase to save money and launch early. Write a persuasive argument explaining.
 the potential risks (security, functionality, compatibility) of skipping this phase.
-The decision to skip the testing stage is risky and might turn out to be more costly in the future. Key Risks:
-1. Security Unpatched vulnerabilities could put sensitive information such as payment information at risk of hacker attacks, leading to security 
+*The decision to skip the testing stage is risky and might turn out to be more costly in the future. Key Risks:
+1. Security: Unpatched vulnerabilities could put sensitive information such as payment information at risk of hacker attacks, leading to security 
 breaches, legal penalties, fines
-2. Function Unidentified bugs may have led to dysfunctional features, such as a problem at checkout, resulting in lost sales. 
-3. compatibility The website might not be functional in different browsers, devices, and screen sizes, leaving the mobile segment alienated. So,it is 
+2. Functionality: Unidentified bugs may have led to dysfunctional features, such as a problem at checkout, resulting in lost sales. 
+3. Compatibility: The website might not be functional in different browsers, devices, and screen sizes, leaving the mobile segment alienated. So,it is 
 established that post-launch resolutions are 4.5 times more expensive than early discoveries potentially delaying the launch anyway because of emergencies, reputation
 issues and revenue generation.Wider testing allows for an assured and secured launch at which money is saved in the long run.
 
 9. A developer begins coding a website immediately after meeting the client, without creatinga design prototype or sitemap. Midway through, the client rejects the layout. Analyze
 what went wrong in the process and how it should have been handled.
-While analyzing, “What went wrong” includes the following for the developer: the developer did not account for important stages like planning or designing 
+*While analyzing, “What went wrong” includes the following for the developer: the developer did not account for important stages like planning or designing 
 (sitemap and prototypes) but opted to code directly. This resulted in a lack of understanding, time wastage in development, and a lot of costs involved when 
 the client rejected the design. Poor communication is also involved. “How it could have been done:”One could have followed a procedure. It could have started with
 information gathering. Then it could have included the creation of a sitemap for structuring. After that, it would have considered the development of prototypes for 
@@ -102,7 +98,7 @@ approval. It could have obtained approval from the client on the prototypes prio
 
 10. A university website was launched successfully, but after six months, students stoppedvisiting it because the exam schedules were outdated. Which phase of the development
 lifecycle was neglected? Explain the activities involved in this phase.
-The maintenance stage was overlooked. This phase presents the following activities: 
+*The maintenance stage was overlooked. This phase presents the following activities: 
 1. Content Updates:New blog post additions, updating prices of products, or updatingcontact information.
 2. Security Patches: Upgrading CMS software (for eg: WordPress) to protect against hacking.
 3. Backups: Automatic database and files backups if there isserver failure.
