@@ -1,50 +1,48 @@
 Group A: Short Questions (2 Marks)
 1. Define the term ”Protocol” in the context of the Internet.
-Protocol in the context of internet refers to a set of rules that define how data is sent, received and understood between two or more networking devices.it makes communication between devices organized and reduces errors.
+*Protocol in the context of internet refers to a set of rules that define how data is sent, received and understood between two or more networking devices.it makes communication between devices organized and reduces errors.
 
 2. What is the primary difference between a Web Browser and a Search Engine?
-A web browser is a software used by user to open and view websites while a search engine is a website which is used to find information on the internet by the user.
+*A web browser is a software used by user to open and view websites while a search engine is a website which is used to find information on the internet by the user.
 
 3. Define the World Wide Web (WWW).
-WWW standing for world wide web is the collection of web pages, websites, pics and videos that the user can access using internet through a web browser.in other words, www lets us view and use websites that are available on the internet.
+*WWW standing for world wide web is the collection of web pages, websites, pics and videos that the user can access using internet through a web browser.in other words, www lets us view and use websites that are available on the internet.
 
 4. Distinguish between a static web page and a dynamic web page.
-A static web pages is the web page that displays same kind of content to all the accessing user. A dynamic web page is a web page that can change based on user interaction and database. 
+*A static web pages is the web page that displays same kind of content to all the accessing user. A dynamic web page is a web page that can change based on user interaction and database. 
 
 Group B: Long Questions (4 Marks)
 5. Explain the client-server architecture of the web with a neat diagram.
-Client server architecture is the most basic structure the web works on.
+*Client server architecture is the most basic structure the web works on.
 There is two sides i.e. the client who ask for services to be provided to them and there is server which revieves the request from the client and provides the services requested.
 The client is the web browser which send server the request for web pages and any other data using protocols like HTTP or HTTPS. Then the browser displays tge received information to the user.
 The server is the computer that stores websites and web applications. It receives the request from the client browesers, processes the request and send the required web page or data back to the client.
 This architecture allows efficient communication between devices with centralized data management and also supports multiple users at the smame time. It also has better security with easy maintainance and updates.
 6. Describe the functions of the following Internet services: Email, FTP, and VoIP.
-Email
+*Email
 Email standing for electronic mail is the sending and receiving of electronic mails over the internet. it can be used for personal, business and educational purposes by all users.
-
 FTP
 File transfer protocol is the protocol that allows the transferring of files between all networking devices. It is mainly used in uploading or downloading data and files.  
-
 VoIP
 Voice over internet protocol is the protocol that allows users to initiate voice calls over the internet. It is used for real time communication with devices on the internet.  
 
 7. ”The Internet is a network of networks.” Elaborate on this statement explaining how
 packet switching works.
-The internet is the collection of multiple small and large networks which is connected together to send and receive data and resources all over the world. the sharing of data and resources 
+*The internet is the collection of multiple small and large networks which is connected together to send and receive data and resources all over the world. the sharing of data and resources 
 from one device to another over the internet is done through the process of packet switching.
 Packet switching is the process of sending data from one device to another device by breaking the data into small parts which we call packets. This packet of data is the sended independently containing source address, 
 destination address and sequence number, across the internet.
-Steps
+Steps:
   1. Data is first divided into small packets containing where the data is from and where its is going and the sequence numbers.
   2. Packets  is sended  through routers through different networks to reach the final destination i.e the receiver.
   3. Routers choose the best available paths based on the network traffic and availability.
   4. Packets reach the destination and is reassembled to recreate the original data.
 
 Group C: Scenario-Based Questions (5 Marks)
-8. A startup company wants to host a website that displays the same information to all
+8. A startup company wants to host a website that displays the same information to all 
 visitors and requires very low maintenance costs. However, they are being advised to use
 a dynamic website. As a consultant, would you agree? Justify your answer.
-As a consultant i would definetly disagree with the advice to use dynamic website when the client wants a website that displays same information to all and every user.
+*As a consultant i would definetly disagree with the advice to use dynamic website when the client wants a website that displays same information to all and every user.
 Dynamice website are only used when content needs top be changed frequently based on the database and user. It requires regular maintainance which increases maintainance cost.
 Static website would clearly meet the requirements for the client as they want same information to dislpay for all visitors and very low maintainance cost. this website doesnt need databases or
 server side programming making the costs minimal for the startup company. It is easy and simple to manage and also provides faster laoding speed ans the conytent is pre-built.
@@ -53,16 +51,16 @@ server side programming making the costs minimal for the startup company. It is 
 Found” error, even though the internet connection is active. However, accessing the site
 via 142.250.190.46 works. Diagnose the problem and explain the underlying technology
 that failed.
-When the browser displays ”Server Not Found” error even when the internet connection is active but works when accessing through another domain, the above problem can be seen as the problem of 
+*When the browser displays ”Server Not Found” error even when the internet connection is active but works when accessing through another domain, the above problem can be seen as the problem of 
 domain name system failure. The DNS whuch is responsible for translating human readable domain name into machine readable ip address is not responding in the above scenario, hence causing the problem however the direct ip address is
 accessible because the browser already understand the domain ip and no longer needs the translation. in other words, when the user types www.google.com which is only understood by human is then converted by DNS into ip address 142.250.190.46
-which the computer can understand and then the browser connects to the web server using the ip. But in this scenario the user is being diplayed a error which is because the DNS is not translating the domain name into ip address which can be further confirmed when the browser
-is working when the direct ip is used by the user where dns doesnt need to be involved.
+which the computer can understand and then the browser connects to the web server using the ip. But in this scenario the user is being diplayed a error which is because the DNS is not translating the domain name into ip address which can be further
+confirmed when the browser is working when the direct ip is used by the user where dns doesnt need to be involved.
 
 10. A multinational corporation wants to share sensitive inventory data with specific suppliers
 but does not want this information available to the general public. Explain which network
 type (Intranet, Extranet, or Internet) they should implement and why.
-When any organization or corporation want to share sensitive inventory data with specific suppliersbut does not want this information available to the general public, they are advised to implement extranet.
+*When any organization or corporation want to share sensitive inventory data with specific suppliersbut does not want this information available to the general public, they are advised to implement extranet.
 Extranet is the network type which consists features of both internet and intranet. This network is a controlled network in which specific selected external users are given access to data shared within the network.
 Extranet has a secure access unlike internet as it doesnt allow general public access, only authorised internal employees are given access like the intranet and very few external users are included for privacy and controlled management.
 In this type of network the corporation can fully monitor access and user permissions. The data is very secure even with collaboration with the specific suppliers, keeping sensitive data away from public.
