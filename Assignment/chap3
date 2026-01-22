@@ -1,0 +1,23 @@
+Group A: Brief Questions (2 Points)
+1. Describe information architecture.
+
+Information architecture or IA is the process of correctly ordering and organizing content on a website so that people can quickly locate what they're looking for.
+  It primarily addresses navigation, categories, and menus.
+
+2. What is a "Wireframe"?
+
+A wireframe is comparable to a webpage's rough layout or sketch. Before creating the actual design, it displays the locations of elements like the menu, buttons,
+  pictures, and text.
+
+3. Describe "Cognitive Friction" in web design.
+
+When a website causes confusion or excessive thought, it is known as cognitive friction. For instance, consumers may struggle and rapidly abandon a website if 
+buttons are unclear or the layout is disorganized.
+
+4. Why employ hyphens rather thanrather than using underscores in URL slugs?
+
+Because they make the URL easier to read and are better understood by search engines, hyphens are preferable.
+For example: my-product-page is considered good while my_product_page not as much efficient in comparison.
+
+Group B: Extended Questions (4 Points)
+
