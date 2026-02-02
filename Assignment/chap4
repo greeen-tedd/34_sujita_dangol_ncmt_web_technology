@@ -18,6 +18,14 @@ of Image Optimization and file formats (JPEG vs PNG) to solve this.
 9. You are designing a website for a Law Firm. The client wants to use a bright yellow
 background with Comic Sans font to look ”friendly.” As a web designer, critique this choice
 based on Color Theory and Typography principles, and suggest a better alternative.
-10. A website looks great on a laptop but is unreadable on a mobile phone because the user has
-to zoom in and scroll horizontally. Identify the design principle missing here and explain
-how Media Queries/Fluid Grids could fix it.
+
+10. A website looks great on a laptop but is unreadable on a mobile phone because the user hasto zoom in and scroll horizontally. Identify the design principle 
+missing here and explainhow Media Queries/Fluid Grids could fix it.
+The design principle missing in this scenario is Responsive Web Design.The website works well on a laptop but becomes unreadable on a mobile phone. This shows 
+that the site was not designed to adapt to different screen sizes.Having to zoom in and scroll horizontally makes reading difficult and frustrating for mobile users. This results in a poor user experience and may cause users 
+to leave the website.
+Media queries allow the website to detect the screen size of the device. Based on this, different CSS styles can be applied so that text, images, and layouts
+adjust properly on mobile screens.
+Fluid grids use relative units like percentages instead of fixed pixels. This allows the layout to resize smoothly according to the screen width, preventing 
+horizontal scrolling.
+Using media queries and fluid grids ensures the website is readable and usable on all devices, improves user experience, and makes the website truly responsive.
